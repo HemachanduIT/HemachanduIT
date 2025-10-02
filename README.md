@@ -1,3 +1,18 @@
+[<img src="https://raw.githubusercontent.com/HemachanduIT/HemachanduIT/master/intro.gif" alt="👋 Hi there! I'm (Hemachandu" title="👋 Hi there! I'm HemaChandu"/>]
+
+![visitors](https://vbr.nathanchung.dev/badge?page_id=HemachanduIT.HemachanduIT&color=00cf00)
+
+
+<!-- **HemachanduIT/HemachanduIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Full Stack & AIML
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate on FullStack & AIML
+- 💬 Ask me about Full Stack & AIML Tools
+- 📫 How to reach me: hemachandubenuboyina@gmail.com
+- 😄 Pronouns: HE/HIM
 
 
 ### Languages
