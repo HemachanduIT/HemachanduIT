@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on FullStack & AIML
 - 💬 Ask me about Full Stack & AIML Tools
-- 📫 How to reach me: hemachandubenuboyina@gmail.com
+- 📫 How to reach me through gmail: hemachandubenuboyina@gmail.com
+- 📫 How to reach me through linkedin:https://www.linkedin.com/in/hemachanduit/
 - 😄 Pronouns: HE/HIM
 
 
