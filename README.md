@@ -1,8 +1,10 @@
 <div align="center">
-<a href="https://github.com/hemachandubenuboyina">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=200&lines=Hi+there!+I'm+Hemachandu+👋;🔭+I'm+a+Full+Stack+%26+AIML+Developer;🌱+Currently+learning+DevOps;👯+Open+to+collaborate+on+FullStack+%26+AIML+projects;💬+Ask+me+about+React,+Node.js,+Python,+PyTorch;📫+Reach+me+at%3A+hemachandubenuboyina@gmail.com" alt="Typing SVG" />
-</a>
+  <a href="https://github.com/hemachandubenuboyina">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+I'm+Hemachandu+👋&repeat=false" alt="Typing SVG" />
+  </a>
 </div>
+
+<br>
 
 Here are some ideas to get you started:
 
