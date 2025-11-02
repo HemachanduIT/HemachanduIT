@@ -6,7 +6,7 @@
 
 <br>
 
-Here are some ideas to get you started:
+Here are some ideas to get to know regarding me:
 
 - 🔭 I’m currently working on Full Stack & AIML & Python & Java
 - 🌱 I’m currently learning DevOps
