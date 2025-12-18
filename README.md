@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Full Stack & AIML & Python & Java
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning MLOps
 - 👯 I’m looking to collaborate on FullStack & AIML
 - 💬 Ask me about Full Stack & AIML Tools
 - 📫 How to reach me through gmail: hemachandubenuboyina@gmail.com
